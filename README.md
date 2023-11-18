@@ -1,1 +1,1 @@
-# test
+This task was completed by Ksenia Fihas. It consists of HTML and CSS, where the main goal was to position elements. The task consists of 12 sections, in which elements of different positioning are presented. For example: text and images.
